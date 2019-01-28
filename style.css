@@ -165,3 +165,6 @@ ul#menu_horizontal {
         display: inline;
         border-right:1px dotted white;
     }
+    p{
+        text-align: justify;
+    }
