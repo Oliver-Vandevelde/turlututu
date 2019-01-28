@@ -162,4 +162,6 @@ ul#menu_horizontal {
         font-size: 15px;
         color: white;
         line-height: 30px;
+        display: inline;
+        border-right:1px dotted white;
     }
