@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAA,CACT,UAAU,CAAC,MAAM,CACjB,UAAU,CAAE,IAAI,CAChB,aAAa,CAAE,KAAK,CAavB,AAhBD,AAII,aAJS,CAIT,MAAM,AAAA,CACF,OAAO,CAAE,SAAS,CAClB,aAAa,CAAE,IAAI,CACnB,SAAS,CAAE,IAAI,CACf,UAAU,CAAE,IAAI,CAChB,gBAAgB,CAAC,IAAI,CACrB,eAAe,CAAE,IAAI,CACrB,KAAK,CAAE,KAAK,CACf,AAZL,AAaI,aAbS,AAaR,MAAM,AAAA,CACH,gBAAgB,CAAC,MAAM,CAC1B",
+    "sources": [
+        "../../assets/scss/appli.scss"
+    ],
+    "names": [],
+    "file": "appli.min.css"
+}

@@ -1,0 +1,17 @@
+.Applications{
+    text-align:center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    .Appli{
+        padding: 15px 15px;
+        border-radius: 10px;
+        font-size: 25px;
+        font-style: bold;
+        background-color:blue;
+        text-decoration: none;
+        color: white;
+    }
+    &:hover{
+        background-color:orange;
+    }
+}

@@ -1,0 +1,20 @@
+.texte {
+  display: block;
+  background-color: deepskyblue;
+  color: white;
+}
+
+.texte .haut-texte {
+  display: inline-block;
+  vertical-align: top;
+  width: 35%;
+  margin-left: 10%;
+}
+
+.texte .bas-texte {
+  width: 35%;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10%;
+}
+/*# sourceMappingURL=texte.css.map */

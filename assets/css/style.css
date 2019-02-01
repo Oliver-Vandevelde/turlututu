@@ -1,0 +1,203 @@
+html {
+  height: 100%;
+}
+
+html p {
+  text-align: justify;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.menu_horizontal {
+  width: 100%;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  background-color: dimgray;
+  list-style-type: none;
+  position: fixed;
+  top: 0;
+  /*li {
+    float: left; 
+    line-height : 30px;*/
+}
+
+.menu_horizontal .bouton_gauche {
+  float: left;
+  line-height: 30px;
+}
+
+.menu_horizontal .titre {
+  display: block;
+  padding: 5px 15px;
+  float: left;
+  font-style: bold;
+  font-size: 20px;
+  color: white;
+  line-height: 30px;
+}
+
+.menu_horizontal .bouton_droite {
+  float: right;
+  color: white;
+  line-height: 30px;
+}
+
+a.horizontale {
+  display: block;
+  padding: 5px 15px;
+  background: dimgrey;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+a.horizontale:hover {
+  background: black;
+}
+
+.haut {
+  display: block;
+  width: 100%;
+  height: 400px;
+  background-color: DeepSkyBLue;
+  top: 0;
+}
+
+.haut .personnage {
+  float: left;
+  margin: 75px 0 0 100px;
+}
+
+.haut .logo {
+  width: 300px;
+  height: 100px;
+  margin: 75px 0 0 10%;
+}
+
+.haut .slogan {
+  font-size: 30px;
+  color: white;
+  margin-left: 32%;
+}
+
+.haut .bouton {
+  padding: 15px 15px;
+  margin: 20px 0 0 10%;
+  border: 4px solid white;
+  border-radius: 10px;
+  font-size: 25px;
+  font-style: bold;
+  background-color: orange;
+  text-decoration: none;
+  color: white;
+}
+
+.project {
+  display: block;
+  margin: 0 0 0px 30%;
+  padding: 15px;
+  font-size: 30px;
+  background-color: white;
+}
+
+.texte {
+  display: block;
+  background-color: deepskyblue;
+  color: white;
+}
+
+.texte .haut-texte {
+  display: inline-block;
+  vertical-align: top;
+  width: 35%;
+  margin-left: 10%;
+}
+
+.texte .bas-texte {
+  width: 35%;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10%;
+}
+
+.innovation {
+  display: block;
+  margin: 0 0 0 25%;
+  padding: 15px;
+  font-size: 30px;
+  background-color: white;
+  color: gray;
+}
+
+.AllLogo {
+  background-color: LightGrey;
+}
+
+.AllLogo .logo1 {
+  float: left;
+  margin-left: 65px;
+  margin-top: 50px;
+  max-width: 150px;
+  height: auto;
+}
+
+.AllLogo .logo2 {
+  max-width: 300px;
+  height: auto;
+  margin-left: 65px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.Applications {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.Applications .Appli {
+  padding: 15px 15px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-style: bold;
+  background-color: blue;
+  text-decoration: none;
+  color: white;
+}
+
+.Applications:hover {
+  background-color: orange;
+}
+
+.menu_horizontal2 {
+  width: 100%;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  background-color: dimgray;
+  list-style-type: none;
+  bottom: 0;
+}
+
+.menu_horizontal2 .fond {
+  display: block;
+  padding: 5px 15px;
+  font-style: bold;
+  font-size: 15px;
+  color: white;
+  line-height: 30px;
+  display: inline;
+  border-right: 1px dotted white;
+}
+
+.menu_horizontal2 .bouton_droite {
+  float: right;
+  color: white;
+  line-height: 30px;
+}
+/*# sourceMappingURL=style.css.map */
